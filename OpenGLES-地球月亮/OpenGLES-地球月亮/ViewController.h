@@ -5,9 +5,9 @@
 //  Created by 熊涛 on 2022/8/9.
 //
 
-#import <UIKit/UIKit.h>
+#import <GLKit/GLKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : GLKViewController
 
 
 @end
